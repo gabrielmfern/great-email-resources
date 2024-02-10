@@ -6,3 +6,4 @@
 | hteumeuleu's blog | Creator of [caniemail](https://www.caniemail.com/) and [Email Bugs](https://github.com/hteumeuleu/email-bugs) | https://www.hteumeuleu.com/blog/ | 
 | emailresourc.es | An abusrd amount of email resources | https://emailresourc.es/ | 
 | caniemail.com | Inspired by [caniuse.com](https://caniuse.com/), always great to check it out before using some feature | https://www.caniemail.com/ |
+| Stig Morten Myre's medium posts | Few, but great posts about certain email issues that may be helpful to you | https://medium.com/@stigm |
