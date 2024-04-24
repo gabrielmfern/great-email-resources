@@ -8,4 +8,4 @@
 | caniemail.com | Inspired by [caniuse.com](https://caniuse.com/), always great to check it out before using some feature | https://www.caniemail.com/ |
 | Stig Morten Myre's medium posts | Few, but great posts about certain email issues that may be helpful to you | https://medium.com/@stigm |
 |  | All proprietary properties supported by Desktop Outloook's rendering engine | https://stigmortenmyre.no/mso/html/concepts/ofconstyletable.htm |
-|  | Email client support per CSS feature, similar to caniemail | https://www.campaignmonitor.com/css/selectors \
+|  | Email client support per CSS feature, similar to caniemail, also contains a few specialized pages such as https://www.campaignmonitor.com/css/selectors | https://www.campaignmonitor.com/css |
